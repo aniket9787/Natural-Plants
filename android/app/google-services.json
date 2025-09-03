@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "168077709490",
+    "project_id": "organic-plants",
+    "storage_bucket": "organic-plants.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168077709490:android:deb5bc3ec48c77f6f9f9ab",
+        "android_client_info": {
+          "package_name": "com.example.organicplants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168077709490-tjhfp6mojdkp6e63ol7k44pb8dd7ueci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organicplants",
+            "certificate_hash": "87359b3f8a89742a635976136128022c0f9d6703"
+          }
+        },
+        {
+          "client_id": "168077709490-rqeoushnug1iksau8aqst1tl7srjfbol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVEiX_iUcE9qklJLMgW8Oir5E96RXvis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168077709490-rqeoushnug1iksau8aqst1tl7srjfbol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168077709490-ed66t8t3c9v3chapevoh3v2m1gbl99to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.organicplants"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
