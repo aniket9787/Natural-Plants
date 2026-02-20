@@ -32,22 +32,6 @@ A full-featured **Flutter-based e-commerce mobile application** for purchasing o
 
 ## 📸 App Screenshots (Highlights)
 
-<p align="center">
-  <img src="assets/screenshots/1.png" width="250" height="500" />
-  <img src="assets/screenshots/2.png" width="250" height="500" />
-  <img src="assets/screenshots/3.png" width="250" height="500" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/4.png" width="250" height="500" />
-  <img src="assets/screenshots/5.png" width="250" height="500" />
-  <img src="assets/screenshots/6.png" width="250" height="500" />
-</p>
-
----
-
-## 📂 All App Screenshots (27 Screens)
-
 <details>
 <summary>👉 Click to expand and view all screenshots</summary>
 
@@ -103,3 +87,4 @@ A full-featured **Flutter-based e-commerce mobile application** for purchasing o
 **Aniket Bajbale**
 
 Flutter Developer | Firebase | Android  
+
