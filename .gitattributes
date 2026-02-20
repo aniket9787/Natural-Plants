@@ -1,1 +1,18 @@
-New File Created...
+# Mark Flutter & Dart as main language
+*.dart linguist-language=Dart
+
+# Ignore build & generated files
+build/** linguist-generated=true
+android/** linguist-generated=true
+ios/** linguist-generated=true
+linux/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+
+# Ignore web files if not primary
+web/** linguist-vendored=true
+
+# Ignore JS & HTML for language stats
+*.js linguist-vendored=true
+*.html linguist-vendored=true
+*.css linguist-vendored=true
